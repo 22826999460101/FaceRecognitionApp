@@ -1,0 +1,28 @@
+.caja{
+    position: absolute;
+    /* top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px; */
+    /* top: 12.6972%; 
+    right: 56.3697%;
+    bottom: 73.3044%;
+    left: 37.03%; */
+
+    box-shadow: inset 0 0 0 3px #149df2;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-pack: center;
+    justify-content: center;
+    cursor: pointer;
+    box-sizing: border-box;
+
+}
+.relative{
+    position: relative;
+}
+
+
+
